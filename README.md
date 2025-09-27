@@ -34,7 +34,7 @@ Get started with Rasa in the browser using GitHub Codespaces.
      rasa train
      ```
 
-5. **Talk to your Bot:**
+5. **Talk to your Bot.all ai
    - In the terminal, run
      ```
      rasa inspect
